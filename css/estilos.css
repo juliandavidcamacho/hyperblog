@@ -1,18 +1,21 @@
 body
 {
-    color: blue;
+    color: #red;
     text-align: right;
-    font-family: "arial";
+    font-family: "cursive";
+    font-size: 32px;
+    margin: 3px;
+    padding: 0;
 }
 #cabecera
 {
   text-align: left;
   background: #33A;
-  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 1);
   color : white;
   font-weight: bold;
   margin: 0;
-  padding: : 1em;
+  padding: : 0.8em;
 }
 
 #cabecera tangline
